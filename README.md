@@ -7,6 +7,8 @@
 
 模组中涉及动画等的部分代码使用ai生成。 Parts of the code related to animation for this mod were generated or optimized with the help of AI (e.g., Gemini).
 
+# 本模组目前已移步至Steam创意工坊更新，感谢您的支持！
+
 # 更新日志：
 5.27重大版本更新。
 
